@@ -16,8 +16,6 @@
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/SuzyNguyenn/Banknotes_VND/main/ezgif.com-gif-maker.gif">
-
 <p align="center">Check out more demo below :)</p>
 
 <!-- TABLE OF CONTENTS -->
